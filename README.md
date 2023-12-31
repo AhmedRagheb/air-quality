@@ -34,3 +34,6 @@ $ npm run test:cov
 
 ## Technical notes
 
+- MongoDB is used for DB.
+- Factory pattern is used to decide which prrovider we will use to get data, in our case it is one provider now, but can be more in the future.
+- API key and DB credentials are saved in `.env` file for testing, in production and real scenario this should be saved in secret manager.
