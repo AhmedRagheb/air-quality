@@ -18,10 +18,6 @@ $ npm run start
 # watch mode
 $ npm run start:dev
 
-
-## Test
-
-```bash
 # unit tests
 $ npm run test
 
