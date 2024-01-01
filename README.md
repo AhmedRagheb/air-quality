@@ -1,7 +1,9 @@
 ## Description
 
-REST API responsible for exposing “the air quality information” of a nearest city to GPS coordinates using iqair :
+- REST API responsible for exposing “the air quality information” of a nearest city to GPS coordinates using iqair :
 https://www.iqair.com/fr/commercial/air-quality-monitors/airvisual-platform/api
+
+- Check API doc from this [swagger](http://localhost:5000/api)
 
 ## Installation
 
